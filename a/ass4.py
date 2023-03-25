@@ -21,4 +21,4 @@ def dictionary():
     return dic
 
 
-print("Makes as keys and Models as values in dictionary :\n", dictionary(1))
+print("Makes as keys and Models as values in dictionary :\n", dictionary())
